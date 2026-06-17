@@ -60,8 +60,6 @@ Unfortunately, your project is not compliant with version 3.3 of the REUSE Speci
 
 ## 4. Лицензии зависимостей
 
-## 4. Лицензии зависимостей
-
 **Таблица из pip-licenses:**
 
 | Name | Version | License |
