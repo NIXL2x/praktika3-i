@@ -1,0 +1,17 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: praktika3-i
+
+# Исключаем виртуальное окружение (оно не является частью проекта)
+Files: pr09/demo-project/venv/*
+Copyright: 2026 Nikita Vikhrov
+License: MIT
+
+# Исключаем бинарные файлы и скриншоты
+Files: *.png *.jpg *.jpeg *.gif *.ico *.svg *.pcap *.asc *.pem
+Copyright: 2026 Nikita Vikhrov
+License: MIT
+
+# Исключаем старые отчёты (они не являются частью текущего проекта)
+Files: pr*/report.md
+Copyright: 2026 Nikita Vikhrov
+License: MIT
