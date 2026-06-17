@@ -1,5 +1,0 @@
-# SPDX-FileCopyrightText: 2026 Nikita Vikhrov
-# SPDX-License-Identifier: MIT
-
-import requests
-print("demo app")
