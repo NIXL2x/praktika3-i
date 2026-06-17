@@ -73,3 +73,5 @@ E..4f.@.@............^....`wa........(.....
 .h9..h9.
 16:40:18.939678 IP 127.0.0.1.48478 > 127.0.0.1.8080: Flags [P.], seq 1:238, ack 1, win 512, options # SPDX-FileCopyrightText: 2026 Nikita Vikhrov
 # SPDX-License-Identifier: MIT
+# SPDX-FileCopyrightText: 2026 Nikita Vikhrov
+# SPDX-License-Identifier: MIT

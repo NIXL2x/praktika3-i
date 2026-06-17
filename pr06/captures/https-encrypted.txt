@@ -63,3 +63,5 @@ E..(......:...p.........7.W...h.P.............
 
 # SPDX-FileCopyrightText: 2026 Nikita Vikhrov
 # SPDX-License-Identifier: MIT
+# SPDX-FileCopyrightText: 2026 Nikita Vikhrov
+# SPDX-License-Identifier: MIT
